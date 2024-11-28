@@ -51,8 +51,12 @@ export function PasswordForm() {
         <h2 className="text-[180px] leading-[175px] tracking-tight font-medium">
           Row 9
           <br />
-          Seat 20
+          Seat 7
         </h2>
+        <div className="mt-12">
+          <p>9th row from the front</p>
+          <p>7th seat from the left</p>
+        </div>
       </div>
     );
   }
